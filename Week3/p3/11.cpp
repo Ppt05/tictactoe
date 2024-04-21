@@ -21,7 +21,7 @@ Chú ý tránh thất thoát bộ nhớ, cần giải phóng vùng bộ nhớ đ
 	struct String{
 	int n;
 	char* str;
-	};
+
 
 	//Construct
 	String (const char* s){
@@ -51,9 +51,8 @@ int main() {
     greeting.append(" there");
     greeting.print();
 
-    String emptyString(0);
-    emptyString.print();
+
 
     return 0;
 }
-}
+
