@@ -2,7 +2,7 @@
 # Tic Tac Toe Game 
 
 Game Tic Tac Toe đơn giản 3*3 viết bằng ngôn ngữ C++ và thư viện SDL2
-có 2 chế độ chơi PPlay with player && Play with AI.
+có 2 chế độ chơi Play with player && Play with AI.
 Game này em làm theo tài liệu hướng dẫn của cô Châu và tự viết thêm nhiều tính năng khác :
 
 - Kiểm tra để cấm đánh trùng ô.
